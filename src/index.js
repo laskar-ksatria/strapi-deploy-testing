@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 
 module.exports = {
   /**
@@ -18,3 +18,7 @@ module.exports = {
    */
   bootstrap(/*{ strapi }*/) {},
 };
+
+//https://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/git@github.com:laskar-ksatria/strapi-deploy-testing.git
+
+// https://github.com/laskar-ksatria/strapi-deploy-testing
